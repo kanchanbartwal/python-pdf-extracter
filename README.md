@@ -10,7 +10,7 @@
 │   |   ├── sample1.pdf
 ```
 
-# Install Reuirements
+# Install Requirements
 > pip install -r requirements.txt
 
 # Run
